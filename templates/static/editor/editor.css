@@ -1,0 +1,17 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+label {
+    display: block;
+}
+
+input, select {
+    display: block;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 24px;
+}

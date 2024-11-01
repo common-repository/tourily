@@ -1,0 +1,9 @@
+.tourily_search_result td {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+.tourily_search_result h2 {
+    margin-bottom: 0;
+}
